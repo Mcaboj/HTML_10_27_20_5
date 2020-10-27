@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+/* Block: Always starts a new line and takes full width */
+
+.block {
+  background: blue;
+  color: white;
+  width: 150px;
+  margin: 10px auto;
+}
+
+/* Inline: Does not start a new line and only takes up as much content space */
+
+.inline {
+  background: red;
+  color: white;
+}
